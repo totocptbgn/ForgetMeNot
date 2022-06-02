@@ -4,4 +4,4 @@
 
 ## Description :
 
-Le sujet est disponible [ici](docs/sujet.pdf). Le but était de construire une application pour aider les amateurs de fleurs à penser à bien arroser leurs différentes fleurs au bon moment.
+Le sujet est disponible [ici](docs/sujet.pdf). Le but était de construire une application Android pour aider les amateurs de fleurs à penser à bien arroser leurs différentes fleurs au bon moment.
